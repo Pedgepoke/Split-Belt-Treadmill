@@ -1,3 +1,3 @@
 Last updated: 3/28/25
 
-This is mostly for my lab to have access to the files I used for my Master's work but if anyone else wants to make their own split-belt go ahead.
+These are the files used to create a split-belt treadmill for testing cat and rat robots. This can be modified for future works or for use by other research labs.
